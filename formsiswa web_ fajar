@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+              <h1 text align="center">Data Pribadi</h1>
+          <form action=""  method="POST">
+              <table>
+                    <tr>
+                        <td width="130">Nama</td>
+                        <td><input type="text" size="30"></td>
+                  </tr>
+                    <tr>
+                      <td>Password</td>
+                      <td><input type="password"></td>
+                  </tr>
+                    <tr>
+                      <td>NISN</td>
+                      <td><input type="number"></td>
+                  </tr>
+                    <tr>
+                      <td>Email</td>
+                      <td><input type="number"></td>
+                  </tr>
+                    <tr>
+                      <td>Tangal lahir</td>
+                      <td><input type="Date"></td>
+                  </tr>
+                   <tr>
+                      <td>Alamat</td>
+                      <td><textarea></textarea></td>
+                  </tr>
+                     <tr>
+                      <td>tempat lahir</td>
+                      <td><input type="tempat lahir"></td>
+                  </tr>
+                   <tr>
+                      <td>Agama</td>
+                      <td><input type="agama"></td>
+                  </tr>
+                  <tr>
+                      <td>sekolah asal</td>
+                      <td><input type="sa"></td>
+                  </tr>
+                   <tr>
+                      <td>No.handphone</td>
+                      <td><input type="number"></td>
+                  </tr>
+                   <tr>
+                      <td>No.hanphane wali</td>
+                      <td><input type="number"></td>
+                  </tr>
+                   <tr>
+                        <td>Jenis kelamin</td>
+                        <td><input type="radio" name="jk">laki-laki
+                        <input type="radio" name="jk">perempuan
+                         </td>
+                   </tr> 
+                    <td>Hoby
+                        <td><input type="checkbox" >olahraga
+                        <input type="checkbox" >musik
+                        <input type="checkbox" >Teknologi
+                        <input type="checkbox" >membaca
+                    </td>
+                  </tr>
+                      <tr>
+                          <td><input type="submit" value="Simpan">
+                          <td><input type="button" value="Reset">   
+                    </td>
+                      </tr>
+              </table>
